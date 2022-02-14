@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Caio Alexandre!
 
-- 🔭 Atualmente estou trabalhando como analista de suporte!
+- 🔭 Atualmente trabalhando como analista de suporte!
 - 🌱 Estudando para ingressar na área de DEV.
 
 ##
@@ -19,5 +19,4 @@
  </div>
   
  ##
-  
- ![Snake animation](https://github.com/caiojereissati)
+ ![Snake animation](https://github.com/caiojereissati/caiojereissati/blob/output/github-contribution-grid-snake.svg)
